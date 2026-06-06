@@ -1,0 +1,13 @@
+requirements : 
+
+pip install pandas 
+pip install numpy 
+pip install seaborn 
+pip install torch transformers datasets
+
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
+ pip install sklearn.model_selection
+
+pip install  sklearn.preprocessing 
